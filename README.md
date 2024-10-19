@@ -34,7 +34,7 @@ The data is in .xlsx format with the following features:
 
 #### Application Input Interface
 
-<img width="894" alt="app_index" src="https://github.com/mostafaelgallad/customer-churn-prediction/blob/main/end_to_end_deployment/static/img/churn.jpg">
+<img width="894" alt="app_index" src="end_to_end_deployment/static/img/churn.jpg">
 
 #### Application Results Interface
 
