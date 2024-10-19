@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Churn Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        .content {
+            max-width: 900px;
+            margin: auto;
+        }
+        img {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 20px auto;
+        }
+        .summary {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .summary p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Customer Churn Prediction Report</h1>
+        <div class="summary">
+            <p>This report provides insights into customer churn based on purchase frequency and churn status in the dataset.</p>
+        </div>
+
+        <h2>Distribution of Purchase Frequency</h2>
+        <img src="purchase_frequency.png" alt="Distribution of Purchase Frequency">
+
+        <h2>Churn vs. Non-Churn Customers</h2>
+        <img src="churn_distribution.png" alt="Churn vs. Non-Churn Customers">
+
+        <div class="summary">
+            <p><b>Total Customers:</b> 5630</p>
+            <p><b>Churned Customers:</b> 948</p>
+            <p><b>Non-Churned Customers:</b> 4682</p>
+        </div>
+    </div>
+</body>
+</html>
