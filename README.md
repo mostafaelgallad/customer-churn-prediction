@@ -354,3 +354,7 @@ engage with the customers and launch targeted campaigns for customer retention.
 # References
 
 - _Allan Ouko_ Blog on medium. [Link](https://medium.com/@allanouko17/customer-churn-prediction-using-machine-learning-ddf4cd7c9fd4)
+
+- Kaggle Dataset. [Link](<(https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction/data)>)
+- Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media, 2019.
+- Frey, Kirill. Building Recommender Systems with Machine Learning and AI[Link](https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai)
